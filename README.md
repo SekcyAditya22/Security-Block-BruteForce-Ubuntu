@@ -1,4 +1,6 @@
-PASTIKAN SUDAH INSTALL PYTHON3 DAN MOVE FOLDER PADA /etc/
+Requirements :
+Pastikan sudah Install Python3 dan pindahkan folder pada /etc/ip_block/
+
 
 ## Instalasi
 
