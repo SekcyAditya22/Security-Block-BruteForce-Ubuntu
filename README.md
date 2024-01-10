@@ -1,6 +1,8 @@
 Requirements :
 Pastikan sudah Install Python3 dan pindahkan folder pada /etc/ip_block/
 
+BY : OPM
+
 
 ## Instalasi
 
